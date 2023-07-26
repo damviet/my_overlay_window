@@ -1,7 +1,7 @@
 name: my_overlay_window
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage: ""
+homepage: "https://github.com/damviet/my_overlay_window.git"
 
 environment:
   sdk: '>=3.0.5 <4.0.0'

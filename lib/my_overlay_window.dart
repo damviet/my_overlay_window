@@ -1,8 +1,4 @@
+library flutter_overlay_window;
 
-import 'my_overlay_window_platform_interface.dart';
-
-class MyOverlayWindow {
-  Future<String?> getPlatformVersion() {
-    return MyOverlayWindowPlatform.instance.getPlatformVersion();
-  }
-}
+export 'package:my_overlay_window/src/overlay_window.dart';
+export 'package:my_overlay_window/src/overlay_config.dart';
